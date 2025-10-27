@@ -53,5 +53,5 @@ password_string = "".join(user_password)
 
 print(f"Your password is : {password_string}")
 
-input("Πατήστε Enter για έξοδο...")
+input("Press enter for exit...")
 
